@@ -7,7 +7,7 @@ Repo for maintaining different contributors towards golang
 
 # Golang - People:
 
-https://hockman.dev/
+https://hockman.dev/ \n
 https://jayconrod.com
 
 
