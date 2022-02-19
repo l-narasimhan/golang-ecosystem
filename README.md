@@ -1,15 +1,15 @@
 # golang-ecosystem
 Repo for maintaining different contributors towards golang
 
-# Blogs:
+### Blogs:
 
 
 
-# Golang - People:
+### Golang - People:
 
 https://hockman.dev  <br /> 
 https://jayconrod.com
 
 
 
-# Resources:  
+### Resources:  
