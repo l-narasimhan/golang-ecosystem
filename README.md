@@ -32,3 +32,8 @@ https://www.gophercon.com/
 
 
 ### Resources:  
+
+
+###
+
+https://go.dev/blog/waza-talk
